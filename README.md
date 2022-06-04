@@ -1,2 +1,1 @@
-# download
-Download Spamchat now!
+# download Spamchat now!
