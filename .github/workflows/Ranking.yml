@@ -2,7 +2,7 @@ name: Upate Ranking
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/1 * * * *'
 
 jobs:
   move:
