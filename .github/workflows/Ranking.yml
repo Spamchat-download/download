@@ -1,8 +1,8 @@
 name: Upate Ranking
 
 on:
-  schedule:
-    - cron: '*/1 * * * *'
+  issues:
+    types: [opened]
 
 jobs:
   move:
