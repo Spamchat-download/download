@@ -1,8 +1,8 @@
 name: Upate Ranking
 
 on:
-  issues:
-    types: [opened]
+  shedule:
+    - cron: '5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 * * * *'
 
 jobs:
   move:
