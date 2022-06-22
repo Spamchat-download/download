@@ -8,7 +8,7 @@ all_items = res.items
 #print("-------------")
 all_items.sort(key=lambda x: x["spamscore"])
 for item in all_items:
-    h = "Der User \"" + item["key"] + "\" hat den höchsten Spamscore mit " + item["spamscore"] + "."
+    h = "The User \"" + item["key"] + "\" has the highest Spamscore with " + item["spamscore"] + "."
 print(h)
 datei = open("old/Readme.md", "r")
 in = datei.read()
