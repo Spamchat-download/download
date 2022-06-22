@@ -1,7 +1,4 @@
-# 𝕊𝕡𝕒𝕞𝕔𝕙𝕒𝕥
-
-
-## 𝕊𝕔𝕣𝕖𝕖𝕟𝕤𝕙𝕠𝕥𝕤
+# 𝕊𝕔𝕣𝕖𝕖𝕟𝕤𝕙𝕠𝕥𝕤
 
 
 ### 𝕊𝕖𝕝𝕖𝕔𝕥  𝕪𝕠𝕦𝕣 𝕌𝕤𝕖𝕣𝕟𝕒𝕞𝕖
@@ -26,6 +23,6 @@
 
 
 
-## 𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕
+# 𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕
 
 <img src="https://raw.githubusercontent.com/Spamchat1/download/main/icons/Windows-Logo.svg" width="20">&nbsp; &nbsp;<a href="https://github.com/Spamchat1/download/releases/download/1.1/Spamchat-Setup.exe">𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕 𝕗𝕠𝕣 𝕎𝕚𝕟𝕕𝕠𝕨𝕤</a>
