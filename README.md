@@ -28,4 +28,4 @@
 
 ## 𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕
 
-<img src="https://raw.githubusercontent.com/Spamchat1/download/main/icons/Windows-Logo.svg" width="70">
+<img src="https://raw.githubusercontent.com/Spamchat1/download/main/icons/Windows-Logo.svg" width="20">&nbsp; &nbsp;<a href="https://www.w3schools.com/">𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕 𝕗𝕠𝕣 𝕎𝕚𝕟𝕕𝕠𝕨𝕤</a>
