@@ -29,4 +29,5 @@
 
 
 
-# 𝕊𝕡𝕒𝕞𝕤𝕔𝕠𝕣𝕖
+# ℝ𝕒𝕟𝕜𝕚𝕟𝕘
+The User "User1234😀" has the highest Spamscore with 5.
