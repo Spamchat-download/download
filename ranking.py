@@ -4,7 +4,9 @@ deta = Deta("a0nx7pgk_CAsXSD5UjJsWT8xj9nPSAb14xduJ1fUR")
 chats = deta.Base("spamchat")
 res = chats.fetch()
 all_items = res.items
-all_items.sort(key=lambda x: x["spamscore"])
+def sort_by_key(list):
+	return int(list['spamscore'])
+all_items = sorted(all_items, key=sort_by_key)
 for item in all_items:
     h = "The User \"" + item["key"] + "\" has the highest Spamscore with " + item["spamscore"] + "."
 print(h)
