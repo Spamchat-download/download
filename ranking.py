@@ -10,9 +10,9 @@ all_items = sorted(all_items, key=sort_by_key)
 for item in all_items:
     h = "The User \"" + item["key"] + "\" has the highest Spamscore with " + item["spamscore"] + "."
 print(h)
-datei = open("old/Readme.md", "r")
+datei = open("old/User.svg", "r")
 inn = datei.read()
 datei.close()
-datei = open("README.md", "w")
-datei.write(inn + h)
+datei = open("icons/User.svg.md", "w")
+datei.write(inn.replace("%ghg%, h)
 datei.close()
