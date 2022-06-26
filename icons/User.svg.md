@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="100%" width="100%" viewBox="0 0 300 50">
-  <defs>
-    <linearGradient id="myGradient" gradientTransform="rotate(90)">
-      <stop offset="5%" stop-color="gold" />
-      <stop offset="95%" stop-color="red" />
-    </linearGradient>
-  </defs>
-  <text textLength='290' lengthAdjust="spacing" x='5' y="14" fill="url('#myGradient')">The User "Leno" has the highest Spamscore with 23.</text>
-</svg>
