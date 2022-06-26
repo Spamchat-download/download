@@ -30,4 +30,4 @@
 
 
 # ℝ𝕒𝕟𝕜𝕚𝕟𝕘
-The User "Leno" has the highest Spamscore with 23.
+![SPAMCHAT](https://raw.githubusercontent.com/Spamchat1/download/main/icons/User.svg)
