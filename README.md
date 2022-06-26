@@ -22,12 +22,11 @@
 ![SPAMCHAT](https://raw.githubusercontent.com/Spamchat1/download/main/pics/Screenshot-1.jpg)
 
 
+# ℝ𝕒𝕟𝕜𝕚𝕟𝕘
+
+![SPAMCHAT](https://raw.githubusercontent.com/Spamchat1/download/main/icons/User.svg)
+
 
 # 𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕
 
 <img src="https://raw.githubusercontent.com/Spamchat1/download/main/icons/Windows-Logo.svg" width="20">&nbsp; &nbsp;<a href="https://github.com/Spamchat1/download/releases/download/1.1/Spamchat-Setup.exe">𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕 𝕗𝕠𝕣 𝕎𝕚𝕟𝕕𝕠𝕨𝕤</a>
-
-
-
-# ℝ𝕒𝕟𝕜𝕚𝕟𝕘
-![SPAMCHAT](https://raw.githubusercontent.com/Spamchat1/download/main/icons/User.svg)
