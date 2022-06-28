@@ -5,5 +5,5 @@
       <stop offset="95%" stop-color="red" />
     </linearGradient>
   </defs>
-  <text textLength='290' lengthAdjust="spacing" x='5' y="14" fill="url('#myGradient')">The User "Leno" has the highest Spamscore with 23.</text>
+  <text textLength='290' lengthAdjust="spacing" x='5' y="14" fill="url('#myGradient')">The User "Aroon" has the highest Spamscore with 30.</text>
 </svg>
