@@ -29,4 +29,4 @@
 
 # 𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕
 
-<img src="https://raw.githubusercontent.com/Spamchat1/download/main/icons/Windows-Logo.svg" width="20">&nbsp; &nbsp;<a href="https://github.com/Spamchat1/download/releases/download/1.1/Spamchat-Setup.exe">𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕 𝕗𝕠𝕣 𝕎𝕚𝕟𝕕𝕠𝕨𝕤</a>
+<img src="https://raw.githubusercontent.com/Spamchat1/download/main/icons/Windows-Logo.svg" width="20">&nbsp; &nbsp;<a href="https://github.com/Spamchat1/download/releases/download/1.2/Spamchat-v1.2.exe">𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕 𝕗𝕠𝕣 𝕎𝕚𝕟𝕕𝕠𝕨𝕤</a>
